@@ -37,6 +37,7 @@ const Pizza = () => {
               <li key={index}>{ingredient}</li>
             ))}
           </ul>
+          <p>{pizza.desc}</p>
           <button className="btn btn-primary mt-3">Añadir al carrito</button>
         </div>
       </div>
