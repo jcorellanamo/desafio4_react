@@ -1,8 +1,8 @@
-# React + Vite
+# Desafio 4 React API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Comenzamos con el Home.jsx, por lo que se mantiene comentado Pizza.jsx.
 
-Currently, two official plugins are available:
+- En el Home mostramos los cards recuperando la información desde la API.
+- En Pizza mostramos un registro de pizza asociado a la API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
